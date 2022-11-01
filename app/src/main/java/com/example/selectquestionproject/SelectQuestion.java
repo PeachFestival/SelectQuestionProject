@@ -74,9 +74,4 @@ public class SelectQuestion {
         });
     }
 
-
-    private void test() {
-        System.out.println("git提交测试");
-    }
-
 }
